@@ -26,7 +26,7 @@
 
 ![Image text](/HW2/image/WX20190308-221522.png)
 
-![Image text](HW2/image/WX20190308-221821.png)
+![Image text](/HW2/image/WX20190308-221821.png)
 
 - **UML**绘图工具练习
 
