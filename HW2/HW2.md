@@ -30,5 +30,7 @@
 
 - **UML**绘图工具练习
 
+*课本P68 图6-3 部分用例语境图*
+
 ![Image text](/HW2/image/test1.jpg)
   
