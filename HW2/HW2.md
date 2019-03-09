@@ -24,13 +24,13 @@
 
 - 看板使用
 
-![Image text](https://github.com/Baigch/SWSAD/tree/master/HW2/image/WX20190308-221522.png)
+![Image text](https://github.com/Baigch/SWSAD/HW2/image/WX20190308-221522.png)
 
-![Image text](https://github.com/Baigch/SWSAD/tree/master/HW2/image/WX20190308-221821.png)
+![Image text](https://github.com/Baigch/SWSAD/HW2/image/WX20190308-221821.png)
 
 - **UML**绘图工具练习
 
 *课本P68 图6-3 部分用例语境图*
 
-![Image text](https://github.com/Baigch/SWSAD/tree/master/HW2/image/test1.jpg)
+![Image text](https://github.com/Baigch/SWSAD/HW2/image/test1.jpg)
   
