@@ -30,4 +30,5 @@
 
 - **UML**绘图工具练习
 
+![Image text](/HW2/image/test1.jpg)
   
