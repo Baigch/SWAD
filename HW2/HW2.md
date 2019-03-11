@@ -26,11 +26,11 @@
 
 ![Image text](https://github.com/Baigch/SWSAD/blob/master/HW2/image/WX20190308-221522.png?raw=true)
 
-![Image text](https://github.com/Baigch/SWSAD/blob/master//HW2/image/WX20190308-221821.png?raw=true)
+![Image text](https://github.com/Baigch/SWSAD/blob/master/HW2/image/WX20190308-221821.png?raw=true)
 
 - **UML**绘图工具练习
 
 *课本P68 图6-3 部分用例语境图*
 
-![Image text](/HW2/image/test1.jpg)
+![Image text](https://github.com/Baigch/SWSAD/blob/master/HW2/image/test1.jpg?raw=true)
   
