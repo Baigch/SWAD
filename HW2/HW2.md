@@ -24,9 +24,9 @@
 
 - 看板使用
 
-![Image text](/HW2/image/WX20190308-221522.png)
+![Image text](https://github.com/Baigch/SWSAD/blob/master/HW2/image/WX20190308-221522.png?raw=true)
 
-![Image text](/HW2/image/WX20190308-221821.png)
+![Image text](https://github.com/Baigch/SWSAD/blob/master//HW2/image/WX20190308-221821.png?raw=true)
 
 - **UML**绘图工具练习
 
