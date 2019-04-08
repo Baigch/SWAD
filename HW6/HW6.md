@@ -48,7 +48,7 @@
 
   扩展关系：相对于包含关系一定要执行的特性，扩展关系是一种可选择执行的关系；
 
-  ![](/Users/lightbai/Documents/GitHub/SWSAD/HW6/images/WX20190407-165739.png)
+  ![](images/WX20190407-165739.png)
 
   泛化关系：子用例继承父用例的所有结构、行为和关系
 
@@ -77,7 +77,7 @@
 
 **淘票票**
 
-![](/Users/lightbai/Documents/GitHub/SWSAD/HW6/images/taopiaopiao.jpg)
+![](images/taopiaopiao.jpg)
 
 
 
