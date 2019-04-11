@@ -119,13 +119,13 @@
 
     - 技术复杂度因子**TCF**
 
-    ![](/Users/lightbai/Documents/GitHub/SWSAD/HW6/images/TCF.png)
+    ![](images/TCF.png)
 
     ​	TCF=0.6+​(0.01*42)=1.02
 
     - 环境复杂度因子**ECF**
 
-      ![](/Users/lightbai/Documents/GitHub/SWSAD/HW6/images/ECF.png)
+      ![](images/ECF.png)
 
       ECF=1.4 + (-0.03*20.5) = 0.785
 
